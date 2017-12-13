@@ -1,0 +1,5 @@
+Projeto de introdução ao gulp: automatizador de tarefas.
+
+O código presente neste repositório foi criado através das lições apresentadas por Rafael Dias 
+em seu canal no youtube (https://www.youtube.com/watch?v=YEPz_NYHpac) e da documentação oficial
+do npm para o módulo gulp-task-listing (https://www.npmjs.com/package/gulp-task-listing).
